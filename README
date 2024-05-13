@@ -1,0 +1,4 @@
+This is a application running with Powershell and OSGeo4W that automatized boring and time consumming tasks.
+I developped it on Powershell because it is powerfull in files / directories editing.
+I used OSGEO4W because it is used by all my colleagues through QGIS and because of the office policies, we haven't got the right to install any code libraries/dependencies and to ask for admin rights.
+So this way, API is able to run on every computer of the office.
